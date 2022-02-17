@@ -17,19 +17,19 @@
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/NirajGujarathi/NirajGujarathi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirajGujarathi&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirajGujarathi&hide=html,tex&langs_count=5&layout=compact" />
 </a>
 
 <a href="https://github.com/NirajGujarathi/NirajGujarathi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NirajGujarathi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" alt="Niraj's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NirajGujarathi&show_icons=true&line_height=20&count_private=true" alt="Niraj's GitHub Stats" />
 </a>
 
 <a href="https://github.com/NirajGujarathi/CollegeTimeTable_ERP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NirajGujarathi&repo=CollegeTimeTable_ERP&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NirajGujarathi&repo=CollegeTimeTable_ERP" />
 </a>
 
 
 <a href="https://github.com/NirajGujarathi/Student-Portal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NirajGujarathi&repo=Student-Portal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NirajGujarathi&repo=Student-Portal" />
 </a>    
 
