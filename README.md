@@ -17,7 +17,7 @@
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/NirajGujarathi/NirajGujarathi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirajGujarathi&hide=html,tex&langs_count=5&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirajGujarathi&hide=html,tex&langs_count=5&layout=compact" />
 </a>
 <a href="https://github.com/NirajGujarathi/NirajGujarathi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NirajGujarathi&show_icons=true&line_height=20&count_private=true" alt="Niraj's GitHub Stats" />
