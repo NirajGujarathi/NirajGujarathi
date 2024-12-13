@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niraj</h1>
-<h4 align="center">A passionate fullstack developer, expertise in Java technology. <br> Machine Learning and Vision Recognition enthusiast</h3>
+<h4 align="center">A passionate AI Engineer, expertise in LLM based chatbot applications. <br> Proficient in Python and Java languages, AI and ML enthusiast</h3>
 
 <h4 align="left">Connect with me :</h3>
 <p align="left">
