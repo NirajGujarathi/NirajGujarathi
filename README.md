@@ -8,38 +8,38 @@ Welcome to my GitHub profile! I'm passionate about building production-grade AI 
 
 ## 🔗 Connect with me:
 
-<p align="center">
-  <a href="https://linkedin.com/in/niraj-gujarathi-605a41151" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+<div align="center">
+  <a href="https://linkedin.com/in/niraj-gujarathi-605a41151" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/NirajGujarathi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
+  <a href="https://github.com/NirajGujarathi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.leetcode.com/niraj_g" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+  <a href="https://www.leetcode.com/niraj_g" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://www.codechef.com/users/nirajcode" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" />
+  <a href="https://www.codechef.com/users/nirajcode" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-%235B4C8A.svg?logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
-  <a href="https://kaggle.com/nirajgujarathi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" />
+  <a href="https://kaggle.com/nirajgujarathi" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="https://medium.com/@nirajgujarathi" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium" height="30" width="40" />
+  <a href="https://medium.com/@nirajgujarathi" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://huggingface.co/NirajGujarathi" target="blank">
-    <img align="center" src="https://cdn.simpleicons.org/huggingface" alt="huggingface" height="30" width="40" />
+  <a href="https://huggingface.co/NirajGujarathi" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-%23FFD700.svg?logo=huggingface&logoColor=black" alt="HuggingFace" />
   </a>
-  <a href="https://twitter.com/NirajGujarathi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+  <a href="https://twitter.com/NirajGujarathi" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-</p>
+</div>
 
 ---
 
 ## 🎯 Professional Summary
 
-Senior Data Scientist with **4+ years** of combined experience in AI and Software Engineering. Proven expertise in building production-grade **LLM-RAG systems**, **Agentic AI solutions** using LangGraph, and **Azure AI services**. Collaborative team player with strong ability to translate complex business use cases into scalable, deployable AI solutions.
+Senior Data Scientist with **4+ years** of combined experience in AI and Software Engineering. Proven expertise in building production-grade **LLM-RAG systems**, **Agentic AI solutions** using LangGraph, and enterprise AI platforms at scale. Specializing in **Prompt Engineering**, **Vector Search**, and **Multi-Agent Systems** with hands-on experience deploying production systems handling **€10M+ business impact**. Passionate about advancing AI research and mentoring emerging talent.
 
 ---
 
